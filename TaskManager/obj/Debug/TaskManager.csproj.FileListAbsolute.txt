@@ -20,3 +20,14 @@ D:\MXMChallenge\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.
 D:\MXMChallenge\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
 D:\MXMChallenge\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.exe
 D:\MXMChallenge\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\bin\Debug\TaskManager.exe.config
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\bin\Debug\TaskManager.exe
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\bin\Debug\TaskManager.pdb
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\obj\Debug\TaskManager.Form1.resources
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\obj\Debug\TaskManager.exe
+D:\MXMChallenge\ProjetoMXMWinForm\MXMChallengeWinForm\TaskManager\obj\Debug\TaskManager.pdb
