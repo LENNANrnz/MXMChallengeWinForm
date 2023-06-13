@@ -1,0 +1,11 @@
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\ProjetoMXMWinForm\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
