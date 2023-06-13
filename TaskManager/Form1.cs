@@ -45,10 +45,10 @@ namespace TaskManager
                
                 System.Threading.Thread.Sleep(100);
 
-                float ramUsage = ramCounter.NextValue() / (1024 * 1024); // Uso de RAM em MB
-                float networkUsage = networkUsageCounter.NextValue() / (1024 * 1024); // Uso de rede em MB/s
+                float ramUsage = ramCounter.NextValue() / (1024 * 1024); 
+                float networkUsage = networkUsageCounter.NextValue() / (1024 * 1024); 
 
-                float totalRam = totalRamCounter.NextValue() / (1024 * 1024); // Total de RAM em MB
+                float totalRam = totalRamCounter.NextValue() / (1024 * 1024); 
                 float ramUsagePercentage = (ramUsage / totalRam) * 100;
 
                 float cpuUsage = cpuCounter.NextValue();
@@ -81,14 +81,11 @@ namespace TaskManager
             progressBarRAM.Value = (int)fram;
             lblRAM.Text = string.Format("{0:0.00}%", fram);
 
-            //chart1.Series["CPU"].Points.AddY(fcpu);
-            //chart1.Series["RAM"].Points.AddY(fram);
-
-            // Criando um objeto DateTime com a hora e minuto atual
+         
             DateTime currentTime = DateTime.Now;
             string formattedDateTime = currentTime.ToString("HH:mm");
 
-            // Adicionando um ponto de dados para o eixo X usando o objeto DateTime
+           
             chart1.Series["CPU"].Points.AddXY(formattedDateTime, fcpu);
             chart1.Series["RAM"].Points.AddXY(formattedDateTime, fram);
 
