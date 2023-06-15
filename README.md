@@ -11,8 +11,7 @@ Este é um projeto de um gerenciador de tarefas simplificado desenvolvido em Win
 
 ## Instalação
 
-Descompacte o arquivo .zip e clique no setup do arquivo, assim o projeto será executado em sua máquina. 
-[Download do arquivo zip](URL_DO_DOWNLOAD)
+Descompacte o arquivo .zip e clique no setup do arquivo, apos isso instale e rode-o, se não rodar, clique no arquivo Task Manager abaixo do setup.
 
 ## Autor 
 <ul>
