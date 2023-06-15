@@ -45,7 +45,7 @@ namespace TaskManager
                 float networkUsage = networkUsageCounter.NextValue() / (1024 * 1024); 
                 float totalRam = totalRamCounter.NextValue() / (1024 * 1024); 
                 float ramUsagePercentage = (ramUsage / totalRam) * 100;
-                float cpuUsage = cpuCounter.NextValue();
+                float cpuUsage = cpuCounter.NextValue()/10;
 
                 string cpuUsageFormatted = cpuUsage.ToString("N2") + "%";
                 string ramUsageFormatted = ramUsagePercentage.ToString("N2") + "%";
